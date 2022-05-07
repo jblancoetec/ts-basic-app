@@ -10,7 +10,7 @@ Este template esta dirigido a todos aquellos que inician en `TyepScript` un proy
 
 - 🔧Para traducir el código en `/src` a `JavaScript` , usar el comando `npm run build`
 
-  🔑Para ejecutar el código con `Node.js`, usar el comando `npm run start`
+- 🔑Para ejecutar el código con `Node.js`, usar el comando `npm run start`
 
 ## Características
 

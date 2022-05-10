@@ -5,6 +5,7 @@
   "main": "./src/index.ts",
   "scripts": {
     "test": "jest",
+    "test:coverage": "jest --coverage",
     "dev": "tsnd --respawn ./src/index.ts",
     "build": "tsc",
     "start": "node ./build/index.js"
